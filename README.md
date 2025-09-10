@@ -2,4 +2,4 @@
 
 sample image 
 
-<img src = "img.jpeg">
+<img src = "imp.jpeg">
